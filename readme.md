@@ -15,7 +15,7 @@ This is Fighting game. So, you can play by the keyboard or AI also.
 `IntelliJ IDEA`
 
 ## Source
-`clone git https://github.com/iamgique/FightingICE.git`
+`git clone https://github.com/iamgique/FightingICE.git`
 
 ## How to run the game
 `Import project from directory FightingICE`

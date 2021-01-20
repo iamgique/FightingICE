@@ -43,6 +43,10 @@ Add library follow by your OS
 -- /{your_directory}/natives/{your_os}/lwjgl-opengl-natives-{your_os}.jar
 ```
 
+![Alt text](resource/images/project_structure.png?raw=true "Project Structure")
+
+![Alt text](resource/images/project_structure_lib.png?raw=true "Project Structure Library")
+
 ```
 Add configuration for IntelliJ
 - Choose application
@@ -53,16 +57,16 @@ Add configuration for IntelliJ
 - OK
 ```
 
+![Alt text](resource/images/project_configuration.png?raw=true "Project Configuration")
+
 `run`
-
-![Alt text](resource/images/project_structure.png?raw=true "Project Structure")
-
-![Alt text](resource/images/project_structure_lib.png?raw=true "Project Structure Library")
 
 ## How to add you AI file to FightingICE
 `When you have AI file you can push it into directory '/{your_directory}/data/ai/'`
 
 ![Alt text](resource/images/AI_screen.png?raw=true "AI Screen")
+
+---
 
 ## How to play
 ```
@@ -96,7 +100,12 @@ Player2
 
 ![Alt text](resource/images/option_screen.png?raw=true "Option screen")
 
-#### References
+---
+
+## References
 Source from FightingICE
 http://www.ice.ci.ritsumei.ac.jp/~ftgaic/index.htm
+
+
+
 

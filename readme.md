@@ -24,6 +24,8 @@ This is Fighting game. So, you can play by the keyboard or AI also.
 Add library
 - File > project structure > modules 
 - Click Plus (+) > JARs or Directories
+-- /{your_directory}/AIToolKit.jar
+-- /{your_directory}/FightingICE.jar
 -- /{your_directory}/lib/javax.json-1.0.4.jar
 -- /{your_directory}/lib/py4j0.10.4.jar
 -- /{your_directory}/lwjgl/lwjgl.jar

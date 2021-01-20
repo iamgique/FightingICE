@@ -1,9 +1,11 @@
 # AI Fighting
 SCB GAMEDAY CHALLENGE
 
+![Alt text](resource/images/screenshot.png?raw=true "AI Fighting Screenshot")
+
 ## Introduction
-This project is doing for build learning culture in an organize.
-This game is Fighting game. So, you can play by the keyboard or AI also.
+This project is doing for build learning culture on an organize.
+This is Fighting game. So, you can play by the keyboard or AI also.
 
 ## Prerequisite
 `git`
@@ -53,8 +55,14 @@ Add configuration for IntelliJ
 
 `run`
 
+![Alt text](resource/images/project_structure.png?raw=true "Project Structure")
+
+![Alt text](resource/images/project_structure_lib.png?raw=true "Project Structure Library")
+
 ## How to add you AI file to FightingICE
 `When you have AI file you can push it into directory '/{your_directory}/data/ai/'`
+
+![Alt text](resource/images/AI_screen.png?raw=true "AI Screen")
 
 ## How to play
 ```
@@ -84,6 +92,11 @@ Player2
 'j' = Step forward // You can also double
 ```
 
+![Alt text](resource/images/home_screen.png?raw=true "Menu screen")
+
+![Alt text](resource/images/option_screen.png?raw=true "Option screen")
+
 #### References
 Source from FightingICE
 http://www.ice.ci.ritsumei.ac.jp/~ftgaic/index.htm
+

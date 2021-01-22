@@ -104,9 +104,11 @@ Player2
 
 ---
 
+## To do AI file
+Source [FighterAI](https://github.com/iamgique/FighterAI.git)
+
 ## References
-Source from FightingICE
-http://www.ice.ci.ritsumei.ac.jp/~ftgaic/index.htm
+Source from [FightingICE](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/index.htm)
 
 
 

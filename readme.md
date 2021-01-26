@@ -7,6 +7,8 @@ SCB GAMEDAY CHALLENGE
 This project is doing for build learning culture on an organize.
 This is Fighting game. So, you can play by the keyboard or AI also.
 
+Registration at [Knockout Schema](https://ai-fighter.web.app)
+
 ## Prerequisite
 `git`
 

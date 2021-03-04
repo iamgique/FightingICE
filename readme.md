@@ -63,6 +63,8 @@ Add configuration for IntelliJ
 
 ![Alt text](resource/images/project_configuration.png?raw=true "Project Configuration")
 
+![Alt text](resource/images/run_main_config.png?raw=true "Main Configuration")
+
 `run`
 
 ## How to add you AI file to FightingICE
